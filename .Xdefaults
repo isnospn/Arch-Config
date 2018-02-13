@@ -1,0 +1,5 @@
+xterm*TermName: xterm-256color
+xterm*Background: #30272b
+xterm*Foreground: #afff00
+xterm*FaceName: Fira Mono Medium
+xterm*FaceSize: 11
